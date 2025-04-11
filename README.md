@@ -61,16 +61,4 @@ Flask, React, MariaDB 기반으로 개발된 미세먼지 농도 예측 시스�
     <td><img src="https://github.com/sunha-park/myimages/blob/main/finedust/011.png" width="500"/></td>
     <td><img src="https://github.com/sunha-park/myimages/blob/main/finedust/012.png" width="500"/></td>
   </tr>
-  <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/finedust/013.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/finedust/014.png" width="500"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/finedust/015.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/finedust/016.png" width="500"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/finedust/017.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/finedust/018.png" width="500"/></td>
-  </tr>
 </table>

@@ -24,9 +24,9 @@ Flask, React, MariaDB 기반으로 개발된 미세먼지 농도 예측 시스�
   <tr>
     ▼ 영상클릭
     <td>
-      <a href="https://www.youtube.com/watch?v=4G4kfpR3Djg&t=2s" title="챗봇/LLM/RAG/해외여행보험">
-        <img src="https://github.com/sunha-park/myimages/blob/main/youtube/20250409_164728.png" width="400" alt="챗봇/LLM/RAG/해외여행보험"/>
-      </a>
+      <a href="https://www.youtube.com/watch?v=IDgNXjgkNpg&t=3s" title="데이터분석/LSTM/미세먼지/웹개발">
+        <img align="center" src="https://github.com/sunha-park/myimages/blob/main/youtube/20250409_164701.png" width="300" alt-text="데이터분석/LSTM/미세먼지/웹개발">
+          </a>
     </td>
   </tr>
 </table>
